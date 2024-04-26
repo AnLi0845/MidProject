@@ -4,6 +4,9 @@ https://www2.comp.polyu.edu.hk/~23028535d/
 or
 https://anli0845.github.io/MidProject/
 
+An Overview of the website:
+![image](https://github.com/AnLi0845/MidProject/blob/main/WebTest.gif)
+
 This website have include the following:
 
     - image
